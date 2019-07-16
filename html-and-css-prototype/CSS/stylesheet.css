@@ -103,6 +103,7 @@ h1 {
   margin: 3px;
 }
 
+
 .give-button {
   width: 100px;
   padding: 10px;
@@ -117,12 +118,61 @@ h1 {
   border: none;
 }
 
+.message{
+  font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+  font-style: italic;
+  color: #20A1D4;
+  font-size: 13px;
+}
 
-.bottom-button {
-
+.buttons {
+  width: 275px;
+  margin: 25px auto;
+  background: white;
+  font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+  position: relative;
+  padding-left: 0px;
 }
 
 
-.bottom-button tell {
+.bottom-button {
+  width: 130px;
+  padding: 10px;
+  font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #424242;
+  border-radius: 4px;
+  text-decoration: none;
+  border-color: #eaeaea;
+  border-style: solid;
+  background: transparent;
+}
+
+
+.tell {
+  margin-left: 10px;
+}
+
+.rectangle {
+  height: 14px;
+  width: 275px;
+  margin-left: 178px;
+  background-color:#EF5F3C ;
+  border-style: solid;
+  border-color: #eaeaea;
+  border-width: 2px;
+  position: absolute;
+  z-index: -1;
+}
+
+.rectangle-2 {
+  height: 14px;
+  width: 90px;
+  margin-left: 365px;
+  background-color: white;
+  border-style: solid;
+  border-color: #eaeaea;
+  border-width: 2px;
 }
 
