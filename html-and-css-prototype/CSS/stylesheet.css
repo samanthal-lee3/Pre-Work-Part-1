@@ -94,7 +94,6 @@ h1 {
   font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
   position: relative;
   padding-left: 20px;
-
 }
 
 .donation {
@@ -154,9 +153,13 @@ h1 {
   margin-left: 10px;
 }
 
+.rectangles{
+  margin-bottom: -27px;
+}
+
 .rectangle {
   height: 14px;
-  width: 275px;
+  width: 273px;
   margin-left: 178px;
   background-color:#EF5F3C ;
   border-style: solid;
@@ -168,8 +171,8 @@ h1 {
 
 .rectangle-2 {
   height: 14px;
-  width: 90px;
-  margin-left: 365px;
+  width: 68px;
+  margin-left: 385px;
   background-color: white;
   border-style: solid;
   border-color: #eaeaea;
